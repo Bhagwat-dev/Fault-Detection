@@ -7,8 +7,8 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 
 # Load datasets (replace with actual paths)
-dataset2 = pd.read_csv(r"C:\Users\Bhagwat\Downloads\Dataset\classData.csv")  # Replace with actual path
-dataset1 = pd.read_csv(r"C:\Users\Bhagwat\Downloads\Dataset\detect_dataset.csv")  # Replace with actual path
+dataset2 = pd.read_csv(r".csv")  # Replace with actual path
+dataset1 = pd.read_csv(r".csv")  # Replace with actual path
 
 # Fault type mapping for Dataset 2
 fault_mapping = {
